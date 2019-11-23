@@ -14,6 +14,7 @@ namespace TrzeciaAplikacjaKonsolowa
             Console.WriteLine("Druga Linia dopisana na remote branchu");
             Console.WriteLine("Trzecia Linia dopisana na branchu lokalnym");
             Console.WriteLine("Czwarta Linia dopisana na branchu lokalnym");
+            Console.WriteLine("Piąta Linia dopisana na branchu remote");
             Console.ReadLine();
         }
     }
